@@ -6,14 +6,25 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Wazuh Home Lab SIEM and File Intergrity Monitoring</b>
-  - [Wazuh Home lab set up](https://github.com/azzim14/Home-Lab-Project-with-Wazuh-/tree/main)
+- <b>Wazuh Home Lab SIEM and File Intergrity Monitoring</b>  - [Wazuh Home lab set up](https://github.com/azzim14/Home-Lab-Project-with-Wazuh-/tree/main)
+ 
   
 
 
 <h2>👨‍💻 Certifications:</h2>
 
-  
+- Mastercard Cybersecurity Job Simulation from Forage
+- Cisco Netacad Ethical Hacker Certificate of Completion and Badge
+- Letsdefend SOC Analyst Learning Path Certification
+- Tryhackme SOC Level 1 Security Analyst Certification of Completion
+
+- <h2>More About me</h2>
+
+- I’ve completed TryHackme SOC Tier 1 Pathway and Letsdefend SOC Tier 1 Pathway
+- I'm a Senior Product Designer 
+- I’m looking to collaborate on Cybersecurity Projects
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
