@@ -19,6 +19,8 @@
 - Cisco Netacad Ethical Hacker Certificate of Completion and Badge
 - Letsdefend SOC Analyst Learning Path Certification
 - Tryhackme SOC Level 1 Security Analyst Certification of Completion
+- Certified Cybersecurity Educator Professional (CCEP)
+
 
 - <h2>More About me</h2>
 
