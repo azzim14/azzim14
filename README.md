@@ -6,32 +6,28 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Wazuh Home Lab SIEM and File Intergrity Monitoring</b>
+  - [Wazuh Home lab set up](https://github.com/azzim14/Home-Lab-Project-with-Wazuh-/tree/main)
+  
 
 
+<h2>👨‍💻 Certifications:</h2>
+
+  
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Azzim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Azzim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: [https://x.com/Cybermech0]
-[Portfolio Website]: https://portfolio.azzimaina.com/
+
+[twitter]: https://x.com/Cybermech0
 [linkedin]: https://www.linkedin.com/in/azzim-aina-uxdesigner/
 
 <!--
+<h2>- 🌱 I’ve completed TryHackme SOC Tier 1 Pathway and Letsdefend SOC Tier 1 Pathway</h2>
+<h2>- 👯 I’m looking to collaborate on Cybersecurity Projects</h2>
+<h2>- 🤔 I’m looking for help with Cybersecurity remote jobs</h2>
+<h2>- 📫 How to reach me: email: contact@azzimaina.com , https://portfolio.azzimaina.com/</h2>
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Pi-hole
-- 🌱 I’m currently learning TryHackme SOC Tier 1 Pathway and already completed Letsdefend SOC Tier 1 Pathway
-- 👯 I’m looking to collaborate on Cybersecurity Projects
-- 🤔 I’m looking for help with Cybersecurity remote jobs
-- 📫 How to reach me: email: contact@azzimaina.com , [Portfolio Website]: https://portfolio.azzimaina.com/
-- ⚡ Fun fact: ...
--->
