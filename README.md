@@ -9,7 +9,7 @@
 - <b>Wazuh Home Lab SIEM and File Intergrity Monitoring</b>  - [Wazuh Home lab set up](https://github.com/azzim14/Home-Lab-Project-with-Wazuh-/tree/main)
 - <b>Snort IDS on Ubuntu</b>  - [Snort IDS Home lab set up](https://github.com/azzim14/Snort-IDS-on-an-Ubuntu-environment/tree/main) 
 - <b>Pfsense on Ubuntu</b>  - [Cybersecurity Lab Firewall with pfSense on Ubuntu](https://github.com/azzim14/Cybersecurity-Lab-Firewall-with-pfSense-on-Ubuntu/tree/main) 
-
+- <b>Active Directory</b>  - [Active Directory Home Lab Setup](https://github.com/azzim14/Active-Directory-Home-Lab-Setup/tree/main) 
   
 
 
