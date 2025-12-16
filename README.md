@@ -1,5 +1,9 @@
 <h1>Hi, I'm Azzim! <br/><a href="https://github.com/azzim14">Cybersecurity SOC Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Product Designer</a>, <a href="https://www.youtube.com/c/joshmadakor">Blue Team</a></h1>
 
+<h1>Objectives</h1>
+<h2>Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst</h2>
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
