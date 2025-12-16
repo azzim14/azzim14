@@ -7,7 +7,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Wazuh Home Lab SIEM and File Intergrity Monitoring</b>  - [Wazuh Home lab set up](https://github.com/azzim14/Home-Lab-Project-with-Wazuh-/tree/main)
- 
+- <b>Snort IDS on Ubuntu</b>  - [Snort IDS Home lab set up](https://github.com/azzim14/Snort-IDS-on-an-Ubuntu-environment/tree/main) 
+  
   
 
 
