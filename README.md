@@ -10,7 +10,8 @@
 - <b>Snort IDS on Ubuntu</b>  - [Snort IDS Home lab set up](https://github.com/azzim14/Snort-IDS-on-an-Ubuntu-environment/tree/main) 
 - <b>Pfsense on Ubuntu</b>  - [Cybersecurity Lab Firewall with pfSense on Ubuntu](https://github.com/azzim14/Cybersecurity-Lab-Firewall-with-pfSense-on-Ubuntu/tree/main) 
 - <b>Active Directory</b>  - [Active Directory Home Lab Setup](https://github.com/azzim14/Active-Directory-Home-Lab-Setup/tree/main) 
-  
+- <b>Microsoft Sentinel (SIEM) in Azure </b>  - [Microsoft Sentinel Home Lab](https://github.com/azzim14/Microsoft-Sentinel-Home-Lab/tree/main) 
+
 
 
 <h2>👨‍💻 Certifications:</h2>
